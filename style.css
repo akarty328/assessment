@@ -1,0 +1,26 @@
+body {
+  background-color: black
+}
+.button {
+  background-color: black;
+  height: 75px;
+  width: 300px;
+
+}
+#text {
+  margin: 0 auto;
+}
+h3 {
+  text-align: center;
+  color: gray;
+}
+h1 {
+  color: silver;
+}
+.block {
+  background-color: white;
+  height: 600 px;
+  width: 500 px;
+
+
+}

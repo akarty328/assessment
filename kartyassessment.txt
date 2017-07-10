@@ -1,0 +1,46 @@
+Adam Karty
+Week 2 Assessment 
+
+1. Boolean, Symbol, Undefined
+
+2. infinity, negative infinity, Undefined
+
+3. var isLoggedIn(false){
+if isLoggedIn != true,
+console.log('Sorry, you must log in!'}
+else { console.log 'you are now logged in.'
+};
+
+4. for (var i = 9, i <= 33, i++)
+  i % 3 = 0{console.log i];
+
+5. function createEntry(entry) {
+return entry (createEntry(grant)];
+
+6. detroitTeams ['Tigers', 'Lions', 'Pistons', 'Red Wings'];
+detroitTeams.forEach{
+ console.log};
+
+7. var myInfo {firstName: 'Adam',
+	       lastName: 'Karty',
+	       age: 22};
+{console.log lastName};
+
+8. var summary = getElementById.summary
+summary.innerText "Javascript is the best";
+
+9. .createElement
+
+10. var phoneBook [{name: “Grant Chirpus”,
+		    number: 3133382780}
+		   {name: “Taylor Swift”,
+                    number: 1234567890}
+                   {name: “Rocky Balboa”,
+                    number: 1238675309}
+		   {name: “Indiana Jones”,
+                    number: 5555555555}];
+	{console.log phoneBook};
+
+
+
+
